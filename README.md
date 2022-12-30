@@ -21,7 +21,7 @@
   🌱 About Me 🌱
   <br/><br/>
     [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>](https://velog.io/@han-byul-yang)
-    [<img src="https://img.shields.io/badge/Gmail-CC6699?style=flat&logo=Gmail&logoColor=white"/>](yahb17@gmail.com)
+    <a href="mailto:yahb17@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC6699?style=flat&logo=Gmail&logoColor=white"/></a>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-byul-yang&layout=compact"><br><br>
    ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=han-byul-yang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
